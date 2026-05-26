@@ -1,10 +1,12 @@
 # Knowledge Base Index
 
-**Last updated**: 2026-04-13
+**Last updated**: 2026-05-25
 
 ---
 
-## Concept Pages
+## Modern Device Management
+
+### Concept Pages
 
 | Page | Description |
 |------|-------------|
@@ -13,7 +15,7 @@
 | [[windows-autopilot]] | Autopilot overview and protocol-level walkthrough of all enrollment phases from OOBE to policy delivery |
 | [[intune-remediations]] | Intune Remediations (Proactive Remediations): how they work, license requirements, key settings |
 
-## Summary Pages
+### Summary Pages
 
 | Page | Source | Description |
 |------|--------|-------------|
@@ -24,3 +26,23 @@
 | [[microsoft-store-access-configuration]] | Configure Access To The Microsoft Store App For Windows Devices.md | How to block the Store app via Intune Settings Catalog and important caveats (winget, app updates, Intune deployments still work) |
 | [[autopilot-onboarding-deep-dive]] | Onboarding modern with Autopilot Magic trick revealed.md | Protocol-level Autopilot deep dive with troubleshooting reference and NodeCache/policy delivery order detail |
 | [[lenovo-warranty-powershell]] | Get Lenovo device warranty info (expired or active) with PowerShell.md | Query Lenovo warranty status via REST API and web scraping — no Vantage or modules required |
+
+---
+
+## Health #health
+
+### Concept Pages
+
+| Page | Description |
+|------|-------------|
+| [[extra-virgin-olive-oil]] | What EVOO is, quality markers, polyphenol content, and metabolic effects at therapeutic doses |
+| [[oleocanthal]] | The anti-inflammatory polyphenol in fresh EVOO that inhibits COX-1/COX-2 like ibuprofen |
+| [[predimed-study]] | 7,447-person Spanish RCT showing Mediterranean diet + EVOO outperforms low-fat diet for fat and waist loss |
+| [[olive-oil-daily-protocol]] | 3 tbsp/day protocol with ramp-up schedule, timing rules, and expected timeline |
+| [[metabolic-inflammation]] | How chronic low-grade inflammation disrupts insulin, fat-burning hormones, and body composition |
+
+### Summary Pages
+
+| Page | Source | Description |
+|------|--------|-------------|
+| [[yt-olive-oil-10-day-experiment]] | yt-i-drank-30-tbsp-of-olive-oil-in-10-days….md | Ben Azadi's 10-day EVOO self-experiment: day-by-day results, studies cited, mechanisms, and quality caveats |

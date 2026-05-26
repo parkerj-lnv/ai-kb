@@ -4,6 +4,26 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-25 — Ingest: olive oil YouTube video (Ben Azadi)
+
+**Source**: `yt-i-drank-30-tbsp-of-olive-oil-in-10-days…-my-body-fat-melted-(day-3-wasnt-normal).md`
+
+**Pages created**:
+
+Concept pages (5):
+- `extra-virgin-olive-oil.md` — EVOO quality, polyphenols, metabolic effects; tagged #health
+- `oleocanthal.md` — COX-1/COX-2 anti-inflammatory polyphenol in fresh EVOO; tagged #health
+- `predimed-study.md` — 7,447-person Mediterranean diet RCT; tagged #health
+- `olive-oil-daily-protocol.md` — 3 tbsp/day protocol, timing, ramp-up, mistakes to avoid; tagged #health
+- `metabolic-inflammation.md` — Chronic low-grade inflammation and metabolic disruption; tagged #health
+
+Summary pages (1):
+- `yt-olive-oil-10-day-experiment.md` — Day-by-day log, studies cited, mechanisms, sponsored content note; tagged #health
+
+Index: Restructured into MDM and Health sections; added all 6 new pages.
+
+---
+
 ## 2026-04-13 — Initial ingest (7 sources)
 
 **Sources ingested:**
