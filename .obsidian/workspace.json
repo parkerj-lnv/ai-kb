@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c47141abf014017",
+        "id": "d1757c79a8491c47",
         "type": "tabs",
         "children": [
           {
-            "id": "1747f670142480f4",
+            "id": "ef011cd4b8bd7816",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             }
           }
         ]
@@ -180,16 +176,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1747f670142480f4",
+  "active": "ef011cd4b8bd7816",
   "lastOpenFiles": [
+    "kb/yt-olive-oil-10-day-experiment.md",
+    "kb/index.md",
+    "kb/log.md",
+    "CLAUDE.md",
     "kb/microsoft-store-access-configuration.md",
     "kb/secure-boot.md",
     "raw/Operationalize Lenovo Device management with Microsoft Intune.md",
     "raw/New folder",
     "raw/Request Copilot code review from GitHub CLI.md",
-    "kb/index.md",
     "raw/Onboarding modern with Autopilot Magic trick revealed.md",
-    "kb/log.md",
     "kb/lenovo-warranty-powershell.md",
     "kb/lenovo-warranty-powershell.md.tmp.28136.1776098521641",
     "kb/autopilot-onboarding-deep-dive.md",
@@ -211,7 +209,6 @@
     "raw/Secure Boot playbook for certificates expiring in 2026.md",
     "raw/Monitoring Secure Boot certificate status with Microsoft Intune remediations.md",
     "raw/Intune PowerShell Script Delay Here Is What Really Causes It.md",
-    "CLAUDE.md",
     "kb",
     "raw"
   ]
